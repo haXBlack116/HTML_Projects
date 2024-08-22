@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header h1{
+    font-weight: 400;
+}
+
+header p{
+    padding: 15px;
+}
+
+.conteudo1{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.conteudo1 h2{
+    font-weight: 300;
+}
+
+.conteudo1 p{
+    padding: 10px;
+}
+
+.inscreva-se{
+    padding: 15px;
+    width: 150px;
+    background-color: #232323;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 15px;
+    border-radius: 25px;
+}
+
+.inscreva-se:hover{
+    background-color: #505050;
+    color: #262626;
+}
+
+.img{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.conteudo2{
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.conteudo2 h2{
+    font-weight: 300;
+}
+
+.conteudo2 p{
+    padding: 15px;
+}
+
+.botoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+}
+
+.romance{
+    border-radius: 25px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    color: #fff;
+    background-color: #5c8bd6;
+    font-weight: 600;
+}
+
+.ficcao{
+    border-radius: 25px;
+    height: 40px;
+    width: 150px;
+    border: none;
+    color: #fff;
+    background-color: #5c8bd6;
+    font-weight: 600;
+}
+
+.misterio{
+    border-radius: 25px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    color: #fff;
+    background-color: #5c8bd6;
+    font-weight: 600;
+}
+
+.fantasia{
+    border-radius: 25px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    color: #fff;
+    background-color: #5c8bd6;
+    font-weight: 600;
+}
+
+.suspense{
+    border-radius: 25px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    color: #fff;
+    background-color: #5c8bd6;
+    font-weight: 600;
+}
+
+.botao-diferente{
+    border-radius: 25px;
+    height: 40px;
+    width: 110px;
+    border: none;
+    color: #fff;
+    background-color: #0f0f0f;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.conteudo3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.conteudo3 h2{
+    font-weight: 300;
+}
+
+.conteudo3 p{
+    padding: 15px;
+}
+
+.inscreva-se2{
+    margin-bottom: 30px;
+    padding: 15px;
+    width: 150px;
+    background-color: #0a0a0a;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 15px;
+    border-radius: 25px;
+}
+
+.inscreva-se2:hover{
+    background-color: #505050;
+    color: #262626;
+}
+
+footer{
+    background-color: #0a0a0a;
+    height: 10vh;
+    color: #fff;
+}
+
+footer p{
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    font-weight: 200;
+}

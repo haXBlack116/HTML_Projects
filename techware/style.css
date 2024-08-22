@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+header{
+    h1{
+        color: red;
+        background-color: black;
+    }
+    p{
+        color: blue;
+        background-color: gray;
+    }
+    a{
+        color: blueviolet;
+        background-color: aquamarine;
+    }
+    background-color: rgb(54, 35, 121);
+}
+
